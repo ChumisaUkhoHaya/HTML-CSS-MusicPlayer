@@ -1,1 +1,1 @@
-# HTML-CSS-JS-MusicPlayer
+# HTML-CSS-MusicPlayer
