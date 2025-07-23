@@ -1,3 +1,6 @@
 # HTML-CSS-MusicPlayer
-![Screenshot_20250723_082047_Chrome](https://github.com/user-attachments/assets/5edc7c1e-d59a-42e3-91d6-dc23fbb09b1a)
-![Screenshot_20250723_082059_Chrome](https://github.com/user-attachments/assets/6a67caf3-ff29-446c-a5fd-2ae3385b836d)
+
+![Screenshot_20250723_082047_Chrome](https://github.com/user-attachments/assets/f885df6c-fbe5-407f-b8cc-bd167cb3a043)
+
+
+![Screenshot_20250723_082047_Chrome](https://github.com/user-attachments/assets/edb61c72-3309-4106-932c-3dbd4e0c6533)
